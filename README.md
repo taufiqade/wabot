@@ -1,0 +1,2 @@
+# wabot
+simple WhatsApp bot
