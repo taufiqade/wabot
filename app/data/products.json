@@ -1,0 +1,18 @@
+{
+  "europe":{
+    "price":"IDR.120,000\/day",
+    "fup":" **Price for Europe combination doesn\u2019t include Albania, Luxembourg, Malta, Hungary, Serbia & Norway "
+  },
+  "global":{
+    "price":"IDR.120,000\/day",
+    "fup":" **FUP 500MB : Kuota 500MB dikecepatan 4G, setelah FUP habis, kecepatan turun ke 2G. "
+  },
+  "albania":{
+    "price":"IDR.120,000\/day",
+    "fup":" **FUP 500MB : Kuota 500MB dikecepatan 4G, setelah FUP habis, kecepatan turun ke 2G. "
+  },
+  "argentina":{
+    "price":"IDR.96,000\/day",
+    "fup":" **FUP 500MB : Kuota 500MB dikecepatan 4G, setelah FUP habis, kecepatan turun ke 2G. "
+  }
+}
